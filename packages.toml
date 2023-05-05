@@ -1,0 +1,17 @@
+url_prefix = "https://downloads.tuxfamily.org/godotengine/"
+
+[win32]
+"v3.3.4-stable_mono" = "3.3.4/mono/Godot_v3.3.4-stable_mono_win32.zip"
+"v3.3.4-stable" = "3.3.4/Godot_v3.3.4-stable_win32.exe.zip"
+
+[win64]
+"v3.3.4-stable_mono" = "3.3.4/mono/Godot_v3.3.4-stable_mono_win64.zip"
+
+[linux_x86_32]
+"v3.3.4-stable_mono" = "3.3.4/mono/Godot_v3.3.4-stable_mono_x11_32.zip"
+
+[linux_x86_64]
+"v3.3.4-stable_mono" = "3.3.4/mono/Godot_v3.3.4-stable_mono_x11_64.zip"
+
+[macos]
+"v3.3.4-stable_mono" = "3.3.4/mono/Godot_v3.3.4-stable_mono_osx.64.zip"
